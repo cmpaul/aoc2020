@@ -1,5 +1,6 @@
 # aoc2020
-[adventofcode.com](adventofcode.com)
+
+[AdventOfCode.com](https://adventofcode.com)
 
 Things that tripped me up:
 
