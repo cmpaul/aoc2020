@@ -1,5 +1,5 @@
 # aoc2020
-adventofcode.com
+[adventofcode.com]
 
 Things that tripped me up:
 
